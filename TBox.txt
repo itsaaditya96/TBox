@@ -1,0 +1,18 @@
+;The comment below contains SFX script commands
+
+Path=Tbox
+Setup=pip install 'C:\Program Files\TBox\PyAudio-0.2.11-cp37-cp37m-win_amd64.whl'
+Setup=pip install 'C:\Program Files\TBox\PyAudio-0.2.11-cp38-cp38m-win_amd64.whl'
+Setup=pip install -r 'C:\Program Files\TBox\requirements.txt'
+Title=TBox
+Text
+{
+Install Python3.7 or above
+
+Install Wheel for pyAudio3.7
+
+Install Requirements.txt
+
+Go Through Readme.txt
+}
+Shortcut=D, TBox.py, , , , 
