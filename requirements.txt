@@ -13,7 +13,7 @@ certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
 colorama==0.4.1
-cryptography==2.7
+cryptography==3.2
 cx-Freeze==5.1.1
 Eel==0.10.4
 escpos==1.6
