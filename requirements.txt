@@ -48,7 +48,7 @@ pytz==2019.1
 pyusb==1.0.2
 pywin32==224
 pywin32-ctypes==0.2.0
-PyYAML==5.1.1
+PyYAML==5.4
 qrcode==6.1
 requests==2.22.0
 simplejson==3.16.0
